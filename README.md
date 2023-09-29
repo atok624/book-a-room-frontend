@@ -133,7 +133,7 @@ To run the project, execute the following command:
 
 ## 📋 Kanban Board 📋
 
-```There are 3 contributors for this project:```
+``` There are 3 contributors for this project:```
 
 -  ### [Abdelrhman Samy Saad](https://github.com/Mov305)
 -  ### [Nicholas Amissah](https://github.com/atok624)
@@ -178,7 +178,7 @@ If you like this project, please clone it and try it. I know you're going to lov
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank [Murat Korkmaz](https://www.behance.net/muratk) for the amazing [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign), and we'd also want to thank Microverse(staffs , mentors , reviewers) for giving us the knowledge to build an amazing project like this.
+We would like to thank [Murat Korkmaz](https://www.behance.net/muratk) for the amazing [design](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign), and we'd also want to thank Microverse(staffs, mentors, reviewers) for giving us the knowledge to build an amazing project like this.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
